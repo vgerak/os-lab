@@ -1,2 +1,5 @@
 touch .hello_there
 chmod -w .hello_there
+pgrep riddle ---- kill -CONT <pid>
+export ANSWER=42
+mkfifo magic_mirror
