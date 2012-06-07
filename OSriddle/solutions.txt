@@ -1,0 +1,2 @@
+touch .hello_there
+chmod -w .hello_there
